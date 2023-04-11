@@ -1,0 +1,24 @@
+{
+  "name": "pruebadbsequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguelAngelAlvarezFernandez/PruebaDBSequelize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiguelAngelAlvarezFernandez/PruebaDBSequelize/issues"
+  },
+  "homepage": "https://github.com/MiguelAngelAlvarezFernandez/PruebaDBSequelize#readme",
+  "dependencies": {
+    "sequelize": "^6.31.0",
+    "sqlite3": "^5.1.6"
+  }
+}
